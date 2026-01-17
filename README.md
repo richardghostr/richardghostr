@@ -12,6 +12,8 @@ Passionné par le développement d'applications mobiles et web, je transforme de
 ### 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardghostr&theme=tokyonight" alt="GitHub Profile" />
+
+  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -24,11 +26,6 @@ Passionné par le développement d'applications mobiles et web, je transforme de
 - **Bases de données :** MySQL, PostgreSQL, MongoDB
 - **Réseaux & Infra :** Configuration LAN, vidéosurveillance IP, administration système
 - **Méthodologies :** Agile, gestion de projet, travail en équipe
-
----
-
-### 🔭 Projets en vedette
-- Voir mes projets épinglés sur mon profil GitHub. Dis‑moi si tu veux que j'ajoute des dépôts précis ici.
 
 ---
 
