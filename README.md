@@ -27,18 +27,6 @@ Passionné par le développement d'applications mobiles et web, je transforme de
 
 ---
 
-### 🧾 Expériences (sélection)
-- **TEEKA‑Sarl, Cameroun — Stagiaire (juil. 2023 – sept. 2023)**
-  - Développement d'applications web responsives (HTML, CSS, JavaScript) et contributions mobiles.
-- **MARISA‑Cameroun — Stagiaire (août 2024 – sept. 2024)**
-  - Installation et configuration de systèmes de vidéosurveillance, administration réseau et sécurité.
-- **Divine‑Art‑Corporation — Stagiaire (août 2025 – sept. 2025)**
-  - Participation au développement web, optimisation de bases de données et support opérationnel.
-
-> Voir le CV pour le détail complet du parcours.
-
----
-
 ### 🔭 Projets en vedette
 - Voir mes projets épinglés sur mon profil GitHub. Dis‑moi si tu veux que j'ajoute des dépôts précis ici.
 
