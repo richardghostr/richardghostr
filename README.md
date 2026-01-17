@@ -9,8 +9,8 @@ I'm a developer passionate about creating mobile and web applications. I love tu
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brelnosse&theme=tokyonight" alt="GitHub Streak" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brelnosse&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardghostr&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -25,5 +25,5 @@ I'm a developer passionate about creating mobile and web applications. I love tu
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=brelnosse&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=richardghostr&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
