@@ -12,7 +12,7 @@ Passionné par le développement d'applications mobiles et web, je transforme de
 ### 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardghostr&theme=tokyonight" alt="GitHub Profile" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
