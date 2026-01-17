@@ -18,7 +18,7 @@ I'm a developer passionate about creating mobile and web applications. I love tu
 ### 🛠️ My working tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,python,postman,gitlab&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,php,c,java,flutter,js,ts,firebase,github,nodejs,express,mongodb,python,c#,c++,postman,gitlab&perline=8" />
   </a>
 </p>
 
