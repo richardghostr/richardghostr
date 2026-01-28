@@ -45,6 +45,9 @@ Engineering student in computer science, curious and motivated. I enjoy programm
 
 ---
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=brelnosse&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
 ### 🗣️ Languages
 - French (native)
 - English (intermediate)
