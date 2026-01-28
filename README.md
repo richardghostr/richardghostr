@@ -55,6 +55,5 @@ Engineering student in computer science, curious and motivated. I enjoy programm
 If you'd like me to add links to specific projects, screenshots, or adjust the tone (more professional or more casual), tell me and I'll update [README.md](README.md).
 
 ---
-<p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=richardghostr&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-</p>
+
