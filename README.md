@@ -20,7 +20,7 @@ Engineering student in computer science, curious and motivated. I enjoy programm
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Java, Python, C/C++, JavaScript, TypeScript, HTML, CSS
+- **Languages:** Java, Python,R, C/C++, JavaScript, TypeScript, HTML, CSS
 - **Mobile:** Flutter, Android (Java/Kotlin)
 - **Backend & Tools:** Node.js, Express, Git, VS Code, Eclipse, NetBeans
 - **Databases:** MySQL, PostgreSQL, MongoDB
@@ -39,7 +39,7 @@ Engineering student in computer science, curious and motivated. I enjoy programm
 ### 🌐 Tools & Badges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,R,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
   </a>
 </p>
 
