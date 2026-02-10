@@ -39,7 +39,7 @@ Engineering student in computer science, curious and motivated. I enjoy programm
 ### 🌐 Tools & Badges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,R,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,r,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
   </a>
 </p>
 
