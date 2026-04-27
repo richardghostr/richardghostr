@@ -1,59 +1,92 @@
-# 👋 Richard Kuete Tiomela
-**Engineering Student & Full‑Stack Developer**  
-Passionate about mobile and web app development, I turn ideas into reliable, maintainable solutions.
+# 👋 Hi, I'm Richard Kuete Tiomela  
+**Data Engineering & AI Student | Data Analyst | Machine Learning Enthusiast**
+
+I’m passionate about transforming raw data into reliable, scalable and meaningful solutions.  
+My work focuses on **data engineering**, **data analysis**, **machine learning**, and **automation**.
 
 ---
 
-## 🚀 About Me
-Engineering student in computer science, curious and motivated. I enjoy programming, systems, and hands-on projects. I have completed several internships in application development and infrastructure administration, where I strengthened my skills in Java, Flutter, Web, and databases.
+## 📌 About Me
+I’m an engineering student specializing in **Data Science & Artificial Intelligence** at ESILV (Paris La Défense).  
+Curious, rigorous and driven by problem‑solving, I enjoy building data pipelines, analyzing datasets, and developing intelligent systems that bring real value.
+
+I’ve completed internships in **data science** and **data analysis**, where I worked on:
+- data cleaning & preprocessing  
+- predictive modeling  
+- dashboarding & reporting  
+- ETL automation  
+- performance monitoring  
+
+I love learning, experimenting, and sharing knowledge through clean, well‑structured projects.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardghostr&theme=tokyonight" alt="GitHub Profile" />
-
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardghostr&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardghostr&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔧 Technical Skills
-- **Languages:** Java, Python,R, C/C++, JavaScript, TypeScript, HTML, CSS
-- **Mobile:** Flutter, Android (Java/Kotlin)
-- **Backend & Tools:** Node.js, Express, Git, VS Code, Eclipse, NetBeans
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Networking & Infra:** LAN configuration, IP video surveillance, system administration
-- **Methodologies:** Agile, project management, teamwork
+## 🧠 Technical Skills
+
+### 🏗️ Data Engineering
+- Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), ETL pipelines  
+- APIs REST, Docker, Linux  
+- Data cleaning, data modeling, performance optimization  
+
+### 📈 Data Analysis & Visualization
+- Power BI, Excel, Streamlit  
+- Matplotlib, Seaborn  
+- KPI tracking, reporting automation  
+
+### 🤖 Machine Learning
+- Scikit‑learn, XGBoost, Prophet  
+- Feature engineering, model evaluation  
+- MLOps basics (Dockerized APIs, performance tracking)  
+
+### 💻 Software & Development
+- Java, R, C/C++, JavaScript, HTML/CSS  
+- Git/GitHub, VS Code  
+- Node.js, Express  
 
 ---
 
-### 📫 Contact
-- **Email:** richardtiomela4@gmail.com
-- **Phone:** +237 0783974220
-- **LinkedIn:** https://www.linkedin.com/in/richard-kuete-tiomela-a2a70288
+## 🧪 Featured Projects
+
+### 🔍 **Automated Vulnerability Analysis (ETL + Dashboard)**
+*Python, Pandas, Streamlit, REST APIs, Git*  
+- Built a full ETL pipeline to extract, enrich and visualize cybersecurity vulnerabilities (CVE).  
+- Integrated external APIs for enrichment and created an interactive dashboard for risk analysis.
+
+### 📦 **Sales Forecasting for Stock Optimization**
+*Python, XGBoost, Prophet, Docker, Streamlit*  
+- Developed a complete ML pipeline for time‑series forecasting.  
+- Automated data ingestion, feature engineering and model evaluation.  
+- Deployed a REST API with Docker and implemented performance tracking (MAE/RMSE).
 
 ---
 
-### 🌐 Tools & Badges
+## 📫 Contact
+- **Email:** richardtiomela4@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/richard-kuete-tiomela-a2a70288  
+- **Phone:** +237 0783974220  
+
+---
+
+## 🛠️ Tools & Badges
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,r,c,html,css,js,nodejs,flutter,mysql,mongodb,docker,git&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,r,c,js,html,css,nodejs,flutter,mysql,postgres,mongodb,docker,git&perline=6" />
 </p>
 
 ---
 
-### 🗣️ Languages
-- French (native)
-- English (intermediate)
-- Chinese (beginner)
+## 🌍 Languages
+- French (native)  
+- English (B1/B2)  
+- Chinese (beginner)  
 
 ---
 
-If you'd like me to add links to specific projects, screenshots, or adjust the tone (more professional or more casual), tell me and I'll update [README.md](README.md).
-
----
-  ![Profile Views](https://komarev.com/ghpvc/?username=richardghostr&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=richardghostr&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
