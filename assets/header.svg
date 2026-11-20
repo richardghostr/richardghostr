@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0,0 H1000 V150 C830,195 660,115 500,150 C340,185 170,110 0,150 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,0 H1000 V150 C830,195 660,115 500,150 C340,185 170,110 0,150 Z;
+              M0,0 H1000 V155 C830,115 660,190 500,150 C340,112 170,190 0,155 Z;
+              M0,0 H1000 V150 C830,195 660,115 500,150 C340,185 170,110 0,150 Z"/>
+  </path>
+  <text x="500" y="78" text-anchor="middle" fill="#ffffff"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">
+    Richard Kuete Tiomela
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="500" y="115" text-anchor="middle" fill="#cbd5e1"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">
+    Data Science &amp; AI Engineering Student @ ESILV
+    <animate attributeName="opacity" values="0;0;1" dur="1.8s" fill="freeze"/>
+  </text>
+</svg>
