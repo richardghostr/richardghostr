@@ -61,40 +61,9 @@ flowchart LR
 
 ## 🏗️ What I Do
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔹 Data Engineering
-- ETL pipelines (Python, SQL, REST APIs)
-- Data modeling & transformation
-- Dockerized services & automation
-- Linux environments & scripting
-
-### 🔹 Data Analysis
-- KPI tracking & automated reporting
-- Power BI dashboards (DAX)
-- Exploratory data analysis
-- Data cleaning & preprocessing
-
-</td>
-<td valign="top" width="50%">
-
-### 🔹 Machine Learning & Deep Learning
-- Time-series forecasting
-- Image classification (CNN, transfer learning)
-- Model explainability (Grad-CAM)
-- Feature engineering & evaluation
-
-### 🔹 Generative AI & MLOps
-- LLMs, RAG pipelines, LangChain
-- Prompt engineering
-- Model serving with FastAPI
-- MLflow, Docker, GitHub Actions CI
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/what-i-do.svg" width="100%" alt="Data Engineering · Data Analysis & BI · Machine & Deep Learning · Generative AI & MLOps" />
+</p>
 
 ---
 
