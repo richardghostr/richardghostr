@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Richard%20Kuete%20Tiomela&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%26%20AI%20Engineering%20Student%20%40%20ESILV&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img src="./assets/header.svg" width="100%" alt="Richard Kuete Tiomela – Data Science & AI Engineering Student" />
 </p>
 
 <p align="center">
@@ -183,5 +183,5 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
