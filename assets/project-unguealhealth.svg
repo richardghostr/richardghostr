@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170">
+<style>
+.t{font:700 17px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#70a5fd}
+.d{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c0caf5}
+.c{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif}
+</style>
+<rect x="0.5" y="0.5" width="419" height="169" rx="10" fill="#1a1b27" stroke="#2f334d"/>
+<text x="22" y="38" class="t">🩺 UnguealHealth</text>
+<text x="22" y="70" class="d">AI-assisted nail disease diagnosis: 8-class CNN</text><text x="22" y="90" class="d">with Grad-CAM heatmaps and photo quality checks,</text><text x="22" y="110" class="d">inside a full web platform (patient · doctor · admin).</text><rect x="22" y="128" width="66.4" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.15" stroke="#7aa2f7" stroke-opacity="0.5"/><text x="55.2" y="143" text-anchor="middle" class="c" fill="#7aa2f7">PyTorch</text><rect x="94.4" y="128" width="66.4" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.15" stroke="#7aa2f7" stroke-opacity="0.5"/><text x="127.60000000000001" y="143" text-anchor="middle" class="c" fill="#7aa2f7">FastAPI</text><rect x="166.8" y="128" width="52.0" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.15" stroke="#7aa2f7" stroke-opacity="0.5"/><text x="192.8" y="143" text-anchor="middle" class="c" fill="#7aa2f7">React</text><rect x="224.8" y="128" width="59.2" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.15" stroke="#7aa2f7" stroke-opacity="0.5"/><text x="254.4" y="143" text-anchor="middle" class="c" fill="#7aa2f7">Docker</text>
+</svg>
