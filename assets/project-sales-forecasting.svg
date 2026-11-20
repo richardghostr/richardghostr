@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170">
+<style>
+.t{font:700 17px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#70a5fd}
+.d{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c0caf5}
+.c{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif}
+</style>
+<rect x="0.5" y="0.5" width="419" height="169" rx="10" fill="#1a1b27" stroke="#2f334d"/>
+<text x="22" y="38" class="t">📈 Sales Forecasting</text>
+<text x="22" y="70" class="d">Multi-store forecasting pipeline: 55 features,</text><text x="22" y="90" class="d">XGBoost vs LightGBM vs Prophet.</text><text x="22" y="110" class="d">R² 0.95 · MAPE ≈ 11% · FastAPI + Streamlit app.</text><rect x="22" y="128" width="66.4" height="22" rx="11" fill="#9ece6a" fill-opacity="0.15" stroke="#9ece6a" stroke-opacity="0.5"/><text x="55.2" y="143" text-anchor="middle" class="c" fill="#9ece6a">XGBoost</text><rect x="94.4" y="128" width="73.6" height="22" rx="11" fill="#9ece6a" fill-opacity="0.15" stroke="#9ece6a" stroke-opacity="0.5"/><text x="131.2" y="143" text-anchor="middle" class="c" fill="#9ece6a">LightGBM</text><rect x="174.0" y="128" width="66.4" height="22" rx="11" fill="#9ece6a" fill-opacity="0.15" stroke="#9ece6a" stroke-opacity="0.5"/><text x="207.2" y="143" text-anchor="middle" class="c" fill="#9ece6a">FastAPI</text><rect x="246.4" y="128" width="52.0" height="22" rx="11" fill="#9ece6a" fill-opacity="0.15" stroke="#9ece6a" stroke-opacity="0.5"/><text x="272.4" y="143" text-anchor="middle" class="c" fill="#9ece6a">CI/CD</text>
+</svg>
