@@ -102,10 +102,10 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/richardghostr/projet-de-sante-ongle">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=richardghostr&repo=projet-de-sante-ongle&theme=tokyonight&hide_border=true" />
+    <img src="./assets/project-unguealhealth.svg" width="420" alt="UnguealHealth" />
   </a>
   <a href="https://github.com/richardghostr/Prediction_de_vente">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=richardghostr&repo=Prediction_de_vente&theme=tokyonight&hide_border=true" />
+    <img src="./assets/project-sales-forecasting.svg" width="420" alt="Sales Forecasting" />
   </a>
 </p>
 
